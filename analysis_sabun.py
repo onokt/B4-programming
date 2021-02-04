@@ -53,7 +53,7 @@ while True:
                 s1.append(int(mask2[y2, m]))
             y_max.append(y2)
             x_max.append((s1.index(max(s1))))
-            # plt.plot(x1, y1)
+            # plt.plot(x1, 1)
             # plt.show()
 
         # print(str(x_max)+' '+str(y_max))
